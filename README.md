@@ -1,2 +1,2 @@
-git repo tutorial for rc summer school 2023
+git repo tutorial for RC Summer School 2023
 
